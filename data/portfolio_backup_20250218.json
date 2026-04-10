@@ -1,0 +1,213 @@
+{
+  "name": "Indra Putra Mahayuda",
+  "tagline": "AI Engineer | Data Scientist | Computer Vision",
+  "about": "AI Engineer and Data Scientist with 3+ years of experience in machine learning, computer vision, and system optimization across industries including mining, autonomous vehicle and humanoid robotic. Skilled in building end-to-end AI solutions, from data analysis and model development to deployment, bridging technology with real-world business needs.",
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Reinforcement Learning",
+    "Computer Vision",
+    "NLP",
+    "BigQuery",
+    "Streamlit",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "SQL",
+    "OpenCV",
+    "Gymnasium",
+    "Ray-RLlib",
+    "GluonTS",
+    "Darts",
+    "Flask",
+    "Git"
+  ],
+  "projects": [
+    {
+      "title": "Football Analysis with Computer Vision",
+      "type": "Personal",
+      "category": "Computer Vision",
+      "featured": true,
+      "description": "Developed a computer vision system to analyze football match footage, extracting player positions, movements, and key events to provide tactical insights and performance metrics for teams and coaches.",
+      "stack": [
+        "Python",
+        "YoloV11",
+        "OpenCV",
+        "Scikit Learn",
+        "Object Detection",
+        "Tracking",
+        "Keypoints Detection"
+      ],
+      "link": "https://github.com/bosindra/dynamic-dispatcher",
+      "demo": "https://youtu.be/Wggs1rNbfeY",
+      "image": "/placeholder.svg?height=300&width=500"
+    },
+    {
+      "title": "Advanced Driver System using Radar-Camera Fusion",
+      "type": "Work",
+      "category": "Computer Vision",
+      "featured": true,
+      "description": "Developed an advanced driver assistance system (ADAS) utilizing radar-camera fusion to enhance vehicle perception capabilities, improving object detection accuracy and distance measurement for safer driving experiences.",
+      "stack": [
+        "C++",
+        "Python",
+        "OpenCV",
+        "Robot Operating System (ROS)",
+        "Jetson Orin AGX",
+        "Instance Segmentation"
+      ],
+      "link": "https://github.com/bosindra/road-generator",
+      "demo": "https://youtu.be/bOHhhfR74G4",
+      "gallery": [
+        "/placeholder.svg?height=400&width=600&text=ADAS+System+Architecture",
+        "/placeholder.svg?height=400&width=600&text=Radar+Data+Visualization",
+        "/placeholder.svg?height=400&width=600&text=Fusion+Results"
+      ],
+      "image": "/placeholder.svg?height=300&width=500"
+    },
+    {
+      "title": "Object Detection and Localization for Humanoid Robots",
+      "type": "Competition",
+      "category": "IoT & Robotics",
+      "featured": true,
+      "description": "Developed a computer vision system for humanoid robots in the EEPIS Robot Soccer Competition, detecting the ball for interception and kicking, and landmarks for field position estimation. Achieved 1st place in 2021 and 3rd place in 2022.",
+      "stack": [
+        "C",
+        "C++",
+        "Python",
+        "OpenCV",
+        "TensorFlow",
+        "ROS",
+        "Linux"
+      ],
+      "link": "https://eepis-robotsoccer.github.io/",
+      "demo": "https://youtu.be/xAw4vXFBXSo?si=pHfA_9wZMTHSZ5QM",
+      "gallery": [
+        "/placeholder.svg?height=400&width=600&text=Robot+Vision+View",
+        "/placeholder.svg?height=400&width=600&text=Field+Localization",
+        "/placeholder.svg?height=400&width=600&text=Ball+Tracking"
+      ],
+      "image": "/placeholder.svg?height=300&width=500"
+    },
+    {
+      "title": "Automatic Indonesian License Plate Recognition for Parking System",
+      "type": "Personal",
+      "category": "Computer Vision",
+      "featured": false,
+      "description": "Developed an automatic license plate recognition system for parking management, improving efficiency and accuracy in vehicle identification and tracking.",
+      "stack": [
+        "Python",
+        "OpenCV",
+        "YoloV11",
+        "EasyOCR",
+        "Flask",
+        "SQLite",
+        "HTML",
+        "Vanilla CSS"
+      ],
+      "link": "https://github.com/Indrapuma/Indonesian-License-Plate-Recognition-For-Parking-System",
+      "demo": "https://youtu.be/xHDkeqUHezQ",
+      "image": "/placeholder.svg?height=300&width=500"
+    }
+  ],
+  "experience": [
+    {
+      "role": "Data Scientist",
+      "company": "PT Synapsis Sinergi Digital",
+      "year": "Aug 2024 - Now",
+      "contributions": [
+        "Developed AI solutions for mining industry, focusing on fleet optimization and predictive maintenance",
+        "Implemented deep reinforcement learning algorithms for dynamic dispatching and task optimization",
+        "Applied time series forecasting to predict equipment maintenance, fuel consumption, and operational metrics",
+        "Managed large-scale telemetry data processing and analysis",
+        "Delivered scalable ML solutions using Python, TensorFlow, MLflow, and MLOps practices"
+      ]
+    },
+    {
+      "role": "Computer Vision Engineer Intern",
+      "company": "PT. VKTR Teknologi Mobilitas, Tbk",
+      "year": "Aug 2023 - Feb 2024",
+      "contributions": [
+        "Developed radar-camera fusion modules for vehicle ADAS early warning systems",
+        "Implemented real-time object detection and tracking around vehicles using instance segmentation",
+        "Ensured seamless integration on embedded systems for reliable performance",
+        "Worked with C, C++, Python, OpenCV, PyTorch, ROS, Linux, and TensorRT"
+      ]
+    },
+    {
+      "role": "Software Engineer Intern (Computer Vision)",
+      "company": "Formulatrix Indonesia (PT. Promanufacture Indonesia)",
+      "year": "Feb 2023 - Jul 2023",
+      "contributions": [
+        "Developed computer vision systems for laboratory automation and robotics",
+        "Investigated and resolved camera issues in specialized instrumentation systems",
+        "Developed internal tools for camera calibration to support engineering workflows",
+        "Improved computer vision pipelines for higher accuracy and system reliability",
+        "Utilized C, C++, C#, Python, OpenCV, Linux, Git, Jenkins, and Raspberry Pi for development and deployment"
+      ]
+    },
+    {
+      "role": "Computer Vision Engineer",
+      "company": "EEPIS Robot Soccer Team",
+      "year": "Jan 2021 - Aug 2022",
+      "contributions": [
+        "Developed computer vision systems for humanoid robots in the EEPIS Robot Soccer Competition",
+        "Created a ball detection system for interception and kicking using deep learning techniques",
+        "Implemented a landmark-based localization system for field position estimation",
+        "Integrated systems using C, C++, Python, OpenCV, TensorFlow, ROS, and Linux"
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Computer Engineering",
+      "institution": "Electronic Engineering Polytechnic Institute of Surabaya (PENS)",
+      "year": "2020 - 2024",
+      "description": "Focused on Computer Vision, Robotics, and Artificial Intelligence."
+    }
+  ],
+  "achievements": [
+    {
+      "title": "1st Place - Kontes Robot Humanoid Indonesia (KRI)",
+      "organization": "Pusat Prestasi Nasional (Puspresnas)",
+      "year": "2021",
+      "description": "Achieved 1st place in the national humanoid robot soccer competition as a Computer Vision Engineer."
+    },
+    {
+      "title": "3rd Place - Kontes Robot Humanoid Indonesia (KRI)",
+      "organization": "Pusat Prestasi Nasional (Puspresnas)",
+      "year": "2022",
+      "description": "Achieved 3rd place in the national humanoid robot soccer competition, continuing excellence in robotics."
+    }
+  ],
+  "publications": [
+    {
+      "title": "Design and Implementation of a Radar-Camera Fusion System for Human Detection and Its Distance Measurement",
+      "venue": "2024 International Electronics Symposium (IES)",
+      "year": "2024",
+      "link": "https://ieeexplore.ieee.org/document/10665849"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)",
+      "issuer": "Huawei",
+      "year": "2023",
+      "link": ""
+    },
+    {
+      "title": "Junior Web Developer",
+      "issuer": "BNSP",
+      "year": "2022",
+      "link": ""
+    }
+  ],
+  "contact": {
+    "email": "indraa25.pmy@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/indra-putra-mahayuda-65bb2a1b5",
+    "github": "https://github.com/Indrapuma",
+    "instagram": "https://www.instagram.com/indrapuma._",
+    "location": "Madiun, Indonesia"
+  }
+}

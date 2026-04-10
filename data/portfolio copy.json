@@ -1,0 +1,170 @@
+{
+  "name": "Indra Putra Mahayuda",
+  "tagline": "AI Engineer | Data Scientist | Computer Vision",
+  "about": "AI Engineer and Data Scientist with 1 - 3 years of experience in machine learning, computer vision, and system optimization across industries including mining, autonomous vehicle and humanoid robotic. Skilled in building end-to-end AI solutions, from data analysis and model development to deployment, bridging technology with real-world business needs.",
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Reinforcement Learning",
+    "Computer Vision",
+    "NLP",
+    "BigQuery",
+    "Streamlit",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "SQL",
+    "OpenCV",
+    "Gymnasium",
+    "Ray-RLlib",
+    "GluonTS",
+    "Darts",
+    "Flask",
+    "Git"
+  ],
+  "projects": [
+    {
+      "title": "Dynamic Dispatcher with Deep RL",
+      "description": "Built a deep reinforcement learning-based truck dispatcher system for mining production optimization, improving operational efficiency by 25% through real-time truck allocation and routing.",
+      "stack": ["Python", "RLlib", "Gymnasium", "Ray", "PostgreSQL"],
+      "link": "https://github.com/bosindra/dynamic-dispatcher",
+      "demo": "https://dispatcher-demo.vercel.app",
+      "image": "/placeholder.svg?height=300&width=500"
+    },
+    {
+      "title": "Road Network Generator",
+      "description": "Developed a skeletonization algorithm to generate road networks from mining GPS unit data using computer vision and geospatial analysis, producing automatic road maps from vehicle tracking data.",
+      "stack": ["OpenCV", "BigQuery", "Geospatial", "Python", "Folium"],
+      "link": "https://github.com/bosindra/road-generator",
+      "demo": "https://road-network-demo.vercel.app",
+      "image": "/placeholder.svg?height=300&width=500"
+    },
+    {
+      "title": "Fleet Management AI",
+      "description": "AI-based fleet management system for maintenance prediction and fuel consumption optimization, integrating IoT sensors with machine learning models for predictive analytics.",
+      "stack": ["Python", "Scikit-learn", "FastAPI", "Redis", "Grafana"],
+      "link": "https://github.com/bosindra/fleet-ai",
+      "demo": "https://fleet-ai-demo.vercel.app",
+      "image": "/placeholder.svg?height=300&width=500"
+    },
+    {
+      "title": "Human Distance Detection Radar-Camera Fusion",
+      "description": "Developed a radar-camera fusion system for human distance detection, combining instance-segmented camera data with transformed radar coordinates to improve detection accuracy and reliability (100% object detection, 93.4% distance measurement accuracy).",
+      "stack": ["Python", "OpenCV", "PyTorch", "TensorFlow"],
+      "link": "",
+      "demo": "",
+      "image": "/placeholder.svg?height=300&width=500"
+    },
+    {
+      "title": "Object Detection and Localization for Humanoid Robots",
+      "description": "Developed a computer vision system for humanoid robots in the EEPIS Robot Soccer Competition, detecting the ball for interception and kicking, and landmarks for field position estimation. Achieved 1st place in 2021 and 3rd place in 2022.",
+      "stack": ["C", "C++", "Python", "OpenCV", "TensorFlow", "ROS", "Linux"],
+      "link": "",
+      "demo": "",
+      "image": "/placeholder.svg?height=300&width=500"
+    }
+  ],
+  "experience": [
+
+    {
+      "role": "Data Scientist",
+      "company": "PT Synapsis Sinergi Digital",
+      "year": "Aug 2024 - Now",
+      "contributions": [
+        "Developed AI solutions for mining industry, focusing on fleet optimization and predictive maintenance",
+        "Implemented deep reinforcement learning algorithms for dynamic dispatching and task optimization",
+        "Applied time series forecasting to predict equipment maintenance, fuel consumption, and operational metrics",
+        "Managed large-scale telemetry data processing and analysis",
+        "Delivered scalable ML solutions using Python, TensorFlow, MLflow, and MLOps practices"
+      ]
+    },
+    {
+      "role": "Computer Vision Engineer Intern",
+      "company": "PT. VKTR Teknologi Mobilitas, Tbk",
+      "year": "Aug 2023 - Feb 2024",
+      "contributions": [
+        "Developed radar-camera fusion modules for vehicle ADAS early warning systems",
+        "Implemented real-time object detection and tracking around vehicles using instance segmentation",
+        "Ensured seamless integration on embedded systems for reliable performance",
+        "Worked with C, C++, Python, OpenCV, PyTorch, ROS, Linux, and TensorRT"
+      ]
+    },
+    {
+      "role": "Software Engineer Intern (Computer Vision)",
+      "company": "Formulatrix Indonesia (PT. Promanufacture Indonesia)",
+      "year": "Feb 2023 - Jul 2023",
+      "contributions": [
+        "Developed computer vision systems for laboratory automation and robotics",
+        "Investigated and resolved camera issues in specialized instrumentation systems",
+        "Developed internal tools for camera calibration to support engineering workflows",
+        "Improved computer vision pipelines for higher accuracy and system reliability",
+        "Utilized C, C++, C#, Python, OpenCV, Linux, Git, Jenkins, and Raspberry Pi for development and deployment"
+      ]
+    },
+    {
+      "role": "Computer Vision Engineer",
+      "company": "EEPIS Robot Soccer Team",
+      "year": "Jan 2021 - Aug 2022",
+      "contributions": [
+        "Developed computer vision systems for humanoid robots in the EEPIS Robot Soccer Competition",
+        "Created a ball detection system for interception and kicking using deep learning techniques",
+        "Implemented a landmark-based localization system for field position estimation",
+        "Integrated systems using C, C++, Python, OpenCV, TensorFlow, ROS, and Linux"
+      ]
+    }
+  ],
+  "publications": [
+    {
+      "title": "Deep Reinforcement Learning for Mining Fleet Optimization",
+      "venue": "International Conference on AI in Mining 2023",
+      "year": "2023",
+      "link": "https://example.com/paper1"
+    },
+    {
+      "title": "Computer Vision Applications in Mining Safety Monitoring",
+      "venue": "Journal of Mining Technology",
+      "year": "2022",
+      "link": "https://example.com/paper2"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)",
+      "issuer": "Huawei",
+      "year": "2023",
+      "link": ""
+    },
+    {
+      "title": "Junior Web Developer",
+      "issuer": "BNSP",
+      "year": "2022",
+      "link": ""
+    },
+    {
+      "title": "TensorFlow Developer Certificate",
+      "issuer": "Google",
+      "year": "2023",
+      "link": "https://tensorflow.org/certificate"
+    },
+    {
+      "title": "AWS Certified Machine Learning - Specialty",
+      "issuer": "Amazon Web Services",
+      "year": "2022",
+      "link": "https://aws.amazon.com/certification"
+    },
+    {
+      "title": "Deep Learning Specialization",
+      "issuer": "Coursera - deeplearning.ai",
+      "year": "2021",
+      "link": "https://coursera.org/specializations/deep-learning"
+    }
+  ],
+  "contact": {
+    "email": "bosindra@example.com",
+    "linkedin": "https://linkedin.com/in/bosindra",
+    "github": "https://github.com/bosindra",
+    "kaggle": "https://kaggle.com/bosindra",
+    "location": "Jakarta, Indonesia"
+  }
+}

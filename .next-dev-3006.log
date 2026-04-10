@@ -1,0 +1,46 @@
+
+> my-v0-project@0.1.0 dev
+> next dev --port 3006
+
+   ▲ Next.js 15.2.4
+   - Local:        http://localhost:3006
+   - Network:      http://172.30.80.1:3006
+
+ ✓ Starting...
+ ✓ Ready in 7.8s
+ ○ Compiling / ...
+ ✓ Compiled / in 10.3s (927 modules)
+ GET / 200 in 14790ms
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: ENOENT: no such file or directory, rename 'D:\portfolio\indra-portfolio\.next\cache\webpack\server-development\7.pack.gz_' -> 'D:\portfolio\indra-portfolio\.next\cache\webpack\server-development\7.pack.gz'
+ ✓ Compiled in 11.3s (419 modules)
+ ✓ Compiled in 2.9s (419 modules)
+ ✓ Compiled in 2.7s (419 modules)
+ ✓ Compiled in 1744ms (419 modules)
+ ✓ Compiled in 1657ms (419 modules)
+ ✓ Compiled in 1271ms (419 modules)
+ ✓ Compiled in 1634ms (419 modules)
+ ✓ Compiled in 2.8s (419 modules)
+<w> [webpack.cache.PackFileCacheStrategy] Caching failed for pack: Error: EPERM: operation not permitted, rename 'D:\portfolio\indra-portfolio\.next\cache\webpack\client-development\1.pack.gz_' -> 'D:\portfolio\indra-portfolio\.next\cache\webpack\client-development\1.pack.gz'
+ ✓ Compiled in 2.7s (419 modules)
+ ✓ Compiled in 3.1s (419 modules)
+ ✓ Compiled in 3.1s (419 modules)
+ ✓ Compiled in 1656ms (419 modules)
+ ✓ Compiled in 1323ms (419 modules)
+ ✓ Compiled in 1280ms (419 modules)
+ ✓ Compiled in 1325ms (419 modules)
+ ✓ Compiled in 938ms (419 modules)
+ ✓ Compiled in 784ms (419 modules)
+ ✓ Compiled in 1182ms (419 modules)
+ ✓ Compiled in 1370ms (419 modules)
+ ✓ Compiled in 1260ms (419 modules)
+ ✓ Compiled in 1125ms (419 modules)
+ ✓ Compiled in 1453ms (419 modules)
+ ✓ Compiled in 3.2s (419 modules)
+ ✓ Compiled in 1633ms (419 modules)
+ ✓ Compiled in 1068ms (419 modules)
+ ✓ Compiled in 991ms (419 modules)
+ ✓ Compiled in 1594ms (419 modules)
+ ✓ Compiled in 1967ms (419 modules)
+ GET / 200 in 2177ms
+ ✓ Compiled in 2.5s (419 modules)
+ ✓ Compiled in 1774ms (419 modules)

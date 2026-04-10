@@ -1,0 +1,78 @@
+{
+    "$schema": "https://raw.githubusercontent.com/code-yeongyu/oh-my-openagent/dev/assets/oh-my-opencode.schema.json",
+    "agents": {
+        "sisyphus": {
+            "model": "github-copilot/gpt-5.4",
+            "variant": "high"
+        },
+        "hephaestus": {
+            "model": "github-copilot/gpt-5.4",
+            "variant": "medium"
+        },
+        "oracle": {
+            "model": "github-copilot/gpt-5.4",
+            "variant": "high"
+        },
+        "librarian": {
+            "model": "github-copilot/gpt-5.4-mini",
+            "variant": "high"
+        },
+        "explore": {
+            "model": "github-copilot/gpt-5.4-mini",
+            "variant": "high"
+        },
+        "multimodal-looker": {
+            "model": "github-copilot/gpt-5.4-mini",
+            "variant": "high"
+        },
+        "prometheus": {
+            "model": "github-copilot/gpt-5.4",
+            "variant": "high"
+        },
+        "metis": {
+            "model": "github-copilot/gpt-5.4",
+            "variant": "high"
+        },
+        "momus": {
+            "model": "github-copilot/gpt-5.4",
+            "variant": "medium"
+        },
+        "atlas": {
+            "model": "github-copilot/gpt-5.4",
+            "variant": "high"
+        },
+        "sisyphus-junior": {
+            "model": "github-copilot/gpt-5.4",
+            "variant": "high"
+        }
+    },
+    "categories": {
+        "visual-engineering": {
+            "model": "github-copilot/gemini-3.1-pro-preview",
+            "variant": "high"
+        },
+        "ultrabrain": {
+            "model": "github-copilot/gpt-5.4",
+            "variant": "high"
+        },
+        "artistry": {
+            "model": "github-copilot/gemini-3.1-pro-preview",
+            "variant": "high"
+        },
+        "quick": {
+            "model": "github-copilot/gpt-5.4-mini",
+            "variant": "high"
+        },
+        "unspecified-low": {
+            "model": "github-copilot/gpt-5.4",
+            "variant": "medium"
+        },
+        "unspecified-high": {
+            "model": "github-copilot/gpt-5.4",
+            "variant": "high"
+        },
+        "writing": {
+            "model": "github-copilot/gemini-3-flash-preview"
+        }
+    }
+}

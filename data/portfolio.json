@@ -1,0 +1,349 @@
+{
+  "name": "Indra Putra Mahayuda",
+  "tagline": "AI Engineer specializing in Computer Vision, Deep RL & Production ML Systems",
+  "about": "AI Engineer with 3+ years of hands-on experience shipping machine learning systems across computer vision, deep reinforcement learning, and time series forecasting. I've built radar-camera fusion for autonomous vehicles (published in IEEE IES 2024), won 1st place in Indonesia's National Humanoid Robot Competition, and currently optimize mining fleet operations using deep RL at scale. I thrive at the intersection of research and production \u00e2\u20ac\u201d taking models from Jupyter notebooks to edge devices and cloud deployments.",
+  "stats": [
+    {
+      "value": "3+",
+      "label": "Years Experience"
+    },
+    {
+      "value": "6+",
+      "label": "Projects Shipped"
+    },
+    {
+      "value": "1st",
+      "label": "Place KRI 2021"
+    },
+    {
+      "value": "1",
+      "label": "IEEE Publication"
+    }
+  ],
+  "skills": [
+    "Python",
+    "TensorFlow",
+    "PyTorch",
+    "Reinforcement Learning",
+    "Computer Vision",
+    "NLP",
+    "BigQuery",
+    "Streamlit",
+    "Docker",
+    "Kubernetes",
+    "AWS",
+    "SQL",
+    "OpenCV",
+    "Gymnasium",
+    "Ray-RLlib",
+    "GluonTS",
+    "Darts",
+    "Flask",
+    "Git",
+    "C/C++",
+    "ROS",
+    "YOLO",
+    "TensorRT",
+    "Jetson",
+    "Sensor Fusion",
+    "BERT",
+    "FastAPI",
+    "TypeScript",
+    "Supabase",
+    "Vercel",
+    "Laravel",
+    "Node-RED",
+    "MQTT",
+    "Data Scraping",
+    "Text Classification",
+    "LLM",
+    "Payment Integration",
+    "REST API",
+    "IoT Integration",
+    "Real-time Monitoring",
+    "MLflow",
+    "MLOps"
+  ],
+  "projects": [
+    {
+      "title": "Mining Fleet Optimization with Deep RL",
+      "type": "Professional",
+      "category": "Machine Learning & AI",
+      "featured": true,
+      "description": "Developing deep reinforcement learning algorithms for dynamic dispatching and task optimization in mining operations. Includes time series forecasting for predictive maintenance and fuel consumption, processing large-scale telemetry data with measurable fleet efficiency improvements.",
+      "stack": [
+        "Python",
+        "TensorFlow",
+        "Ray-RLlib",
+        "Gymnasium",
+        "GluonTS",
+        "MLflow",
+        "Docker"
+      ],
+      "link": "",
+      "demo": "",
+      "image": "/placeholder.svg?height=300&width=500",
+      "placeholderType": "confidential"
+    },
+    {
+      "title": "Advanced Driver Assistance System (ADAS)",
+      "type": "Academic / Published",
+      "category": "Computer Vision & Robotics",
+      "featured": true,
+      "description": "Built a radar-camera fusion system for real-time human detection and distance measurement in vehicle ADAS. Achieved reliable object detection on embedded Jetson hardware. Published at IEEE International Electronics Symposium 2024.",
+      "stack": [
+        "C/C++",
+        "ROS",
+        "OpenCV",
+        "YOLO",
+        "TensorRT",
+        "Jetson",
+        "Sensor Fusion",
+        "Python",
+        "Instance Segmentation"
+      ],
+      "link": "https://github.com/bosindra/road-generator",
+      "demo": "https://youtu.be/bOHhhfR74G4",
+      "gallery": [
+        "/img_porto/adas/radar-camera.jpg",
+        "/img_porto/adas/3d-viz.jpg"
+      ],
+      "image": "/img_porto/adas/radar-camera.jpg"
+    },
+    {
+      "title": "Humanoid Robot Vision System",
+      "type": "Competition",
+      "category": "Computer Vision & Robotics",
+      "featured": true,
+      "description": "Developed the computer vision pipeline for humanoid robots competing in Indonesia's National Robot Soccer Competition (KRI). Built ball detection for interception/kicking and landmark-based localization for field positioning. Won 1st place (2021) and 3rd place (2022).",
+      "stack": [
+        "OpenCV",
+        "C/C++",
+        "Python",
+        "ROS",
+        "Deep Learning",
+        "TensorFlow",
+        "Linux"
+      ],
+      "link": "https://eepis-robotsoccer.github.io/",
+      "demo": "https://youtu.be/xAw4vXFBXSo?si=pHfA_9wZMTHSZ5QM",
+      "gallery": [
+        "/img_porto/eros/ball_detection.png",
+        "/img_porto/eros/Gemini_Generated_Image_fqjh3kfqjh3kfqjh.png"
+      ],
+      "image": "/img_porto/eros/Gemini_Generated_Image_fqjh3kfqjh3kfqjh.png"
+    },
+    {
+      "title": "Vectalent: AI-Powered CV Screening",
+      "type": "Product",
+      "category": "Machine Learning & AI",
+      "featured": true,
+      "description": "Built an end-to-end AI product that automates resume screening using LLMs, matching candidates to job requirements with intelligent scoring. Full-stack implementation with payment integration and user dashboard.",
+      "stack": [
+        "LLM",
+        "FastAPI",
+        "TypeScript",
+        "Supabase",
+        "Vercel",
+        "Payment Integration"
+      ],
+      "link": "",
+      "demo": "https://vectalent.com",
+      "gallery": [
+        "/img_porto/vectalent/dasbor.png",
+        "/img_porto/vectalent/comparison.png",
+        "/img_porto/vectalent/details.png"
+      ],
+      "image": "/img_porto/vectalent/dasbor.png"
+    },
+    {
+      "title": "Sentiment Analysis: Japan vs Indonesia",
+      "type": "Research",
+      "category": "Machine Learning & AI",
+      "featured": false,
+      "description": "Analyzed Indonesian netizen reactions on Instagram after the national football team's 6-0 loss to Japan. Built a BERT-based sentiment classification pipeline to categorize thousands of comments into positive, negative, and neutral sentiments, revealing that supportive messages (\"semangat\") dominated despite the heavy defeat.",
+      "stack": [
+        "Data Scraping",
+        "NLP",
+        "BERT",
+        "Text Classification",
+        "Python"
+      ],
+      "link": "/sentiment-analysis-paper.pdf",
+      "demo": "",
+      "gallery": [
+        "/img_porto/sentiment/slide-1.png",
+        "/img_porto/sentiment/slide-2.png",
+        "/img_porto/sentiment/slide-3.png",
+        "/img_porto/sentiment/slide-4.png",
+        "/img_porto/sentiment/slide-5.png"
+      ],
+      "image": "/img_porto/sentiment/slide-1.png"
+    },
+    {
+      "title": "IoT Monitoring Dashboard: Manufacturing",
+      "type": "Client Project",
+      "category": "Web & IoT System",
+      "featured": false,
+      "description": "Built a comprehensive real-time IoT monitoring system for PT TKHS manufacturing facility, providing live data visualization, device management, and alerting.",
+      "stack": [
+        "Laravel",
+        "REST API",
+        "IoT Integration"
+      ],
+      "link": "",
+      "demo": "",
+      "gallery": [
+        "/img_porto/iot-tkhs/grid-machines.png",
+        "/img_porto/iot-tkhs/table-machines.png"
+      ],
+      "image": "/img_porto/iot-tkhs/grid-machines.png"
+    },
+    {
+      "title": "IoT Monitoring Dashboard: Hospital",
+      "type": "Client Project",
+      "category": "Web & IoT System",
+      "featured": false,
+      "description": "Developed a real-time environmental monitoring solution for hospital critical areas, integrating sensors via MQTT and Node-RED for automated alerts and compliance tracking.",
+      "stack": [
+        "Node-RED",
+        "MQTT",
+        "Real-time Monitoring"
+      ],
+      "link": "",
+      "demo": "",
+      "gallery": [
+        "/img_porto/iot-rsmz/rsmz.jpeg"
+      ],
+      "image": "/img_porto/iot-rsmz/rsmz.jpeg"
+    }
+  ],
+  "experience": [
+    {
+      "company": "PT Synapsis Sinergi Digital",
+      "year": "Aug 2024 - Current",
+      "roles": [
+        {
+          "role": "AI Engineer",
+          "year": "Aug 2025 - Current",
+          "isPromoted": true,
+          "contributions": [
+            "Developed a multi-agent reinforcement learning (MARL) system for dynamic fleet dispatching and task optimization in open-pit mining environments",
+            "Built time series forecasting and activity classification models for mining fleet monitoring, covering predictive maintenance, fuel consumption, and productivity estimation",
+            "Engineered an automated road network cartographer to dynamically generate and update haul route graphs from real-time fleet GPS and sensor data",
+            "Designed end-to-end ML pipelines and simulation environments using Python, Rust, and ONNX, enabling high-performance model inference and deployment for production FMS"
+          ]
+        },
+        {
+          "role": "Data Scientist",
+          "year": "Aug 2024 - Aug 2025",
+          "contributions": [
+            "Researched and prototyped deep learning models (RUL, time series forecasting, DRL-based dispatching) using PyTorch and TensorFlow for mining fleet optimization",
+            "Explored automated road network generation to support graph-based dispatch systems in open-pit mining environments",
+            "Conducted experiments and evaluated model performance across multiple problem domains to assess production feasibility",
+            "Presented research findings and prototype demonstrations to clients, translating technical results into actionable insights for mining operations"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "PT VKTR Teknologi Mobilitas, Tbk",
+      "year": "Aug 2023 - Feb 2024",
+      "roles": [
+        {
+          "role": "Computer Vision Engineer Intern",
+          "year": "Aug 2023 - Feb 2024",
+          "contributions": [
+            "Developed radar-camera fusion modules for vehicle ADAS, achieving reliable human detection and distance measurement",
+            "Implemented real-time object detection and instance segmentation running on NVIDIA Jetson embedded hardware",
+            "Published research findings at IEEE International Electronics Symposium (IES) 2024",
+            "Worked with C/C++, Python, OpenCV, PyTorch, ROS, and TensorRT for edge deployment"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "Formulatrix Indonesia",
+      "year": "Feb 2023 - Jul 2023",
+      "roles": [
+        {
+          "role": "Software Engineer Intern (Computer Vision)",
+          "year": "Feb 2023 - Jul 2023",
+          "contributions": [
+            "Developed computer vision systems for laboratory automation and precision robotics",
+            "Built internal camera calibration tools that streamlined engineering QA workflows",
+            "Improved vision pipeline accuracy and reliability for specialized instrumentation",
+            "Utilized C/C++, C#, Python, OpenCV across Linux and Raspberry Pi platforms"
+          ]
+        }
+      ]
+    },
+    {
+      "company": "EEPIS Robot Soccer Team",
+      "year": "Jan 2021 - Aug 2022",
+      "roles": [
+        {
+          "role": "Computer Vision Engineer",
+          "year": "Jan 2021 - Aug 2022",
+          "contributions": [
+            "Led computer vision development for humanoid robots in Indonesia's National Robot Competition (KRI)",
+            "Built real-time ball detection system using deep learning for autonomous interception and kicking",
+            "Implemented landmark-based localization for field position estimation",
+            "Achieved 1st place (2021) and 3rd place (2022) at national level"
+          ]
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "degree": "Bachelor of Engineering in Computer Engineering",
+      "institution": "Electronic Engineering Polytechnic Institute of Surabaya (PENS)",
+      "year": "2020 - 2024",
+      "description": "Focus: Computer Vision, Robotics, and Artificial Intelligence. Graduated with hands-on experience in national robotics competitions and industry internships."
+    }
+  ],
+  "achievements": [
+    {
+      "title": "1st Place - Kontes Robot Humanoid Indonesia (KRI)",
+      "organization": "Pusat Prestasi Nasional (Puspresnas)",
+      "year": "2021",
+      "description": "National champion in humanoid robot soccer competition as Computer Vision Engineer."
+    },
+    {
+      "title": "3rd Place - Kontes Robot Humanoid Indonesia (KRI)",
+      "organization": "Pusat Prestasi Nasional (Puspresnas)",
+      "year": "2022",
+      "description": "Continued excellence in national robotics competition."
+    }
+  ],
+  "publications": [
+    {
+      "title": "Design and Implementation of a Radar-Camera Fusion System for Human Detection and Its Distance Measurement",
+      "venue": "2024 International Electronics Symposium (IES) - IEEE",
+      "year": "2024",
+      "link": "https://ieeexplore.ieee.org/document/10665849"
+    }
+  ],
+  "certificates": [
+    {
+      "title": "Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)",
+      "issuer": "Huawei",
+      "year": "2023",
+      "link": ""
+    },
+    {
+      "title": "Junior Web Developer",
+      "issuer": "BNSP (National Professional Certification Agency)",
+      "year": "2022",
+      "link": ""
+    }
+  ],
+  "contact": {
+    "email": "indraa25.pmy@gmail.com",
+    "linkedin": "https://www.linkedin.com/in/indra-putra-mahayuda-65bb2a1b5",
+    "github": "https://github.com/Indrapuma",
+    "instagram": "https://www.instagram.com/indrapuma._",
+    "location": "Indonesia (Open to Remote & Relocation)"
+  }
+}

@@ -1,0 +1,541 @@
+- main [ref=e2]:
+  - navigation [ref=e3]:
+    - generic [ref=e5]:
+      - button "Indra Putra M" [ref=e7]
+      - generic [ref=e9]:
+        - button "Home" [ref=e10]
+        - button "About" [ref=e11]
+        - button "Skills" [ref=e12]
+        - button "Projects" [ref=e13]
+        - button "Experience" [ref=e14]
+        - button "Credentials" [ref=e15]
+        - button "Contact" [ref=e16]
+      - button "Toggle theme" [ref=e18]:
+        - img
+        - img
+        - generic [ref=e19]: Toggle theme
+  - generic [ref=e27]:
+    - img "Indra Putra Mahayuda" [ref=e31]
+    - generic [ref=e33]: Open to Work
+    - generic [ref=e37]:
+      - heading "Indra Putra Mahayuda" [level=1] [ref=e38]
+      - paragraph [ref=e39]: AI Engineer specializing in Computer Vision, Deep RL & Production ML Systems
+      - paragraph [ref=e40]: Turning research into deployed AI â€” from humanoid robots to mining fleet optimization
+    - generic [ref=e41]:
+      - generic [ref=e42]:
+        - generic [ref=e43]: 3+
+        - generic [ref=e44]: Years Experience
+      - generic [ref=e45]:
+        - generic [ref=e46]: 6+
+        - generic [ref=e47]: Projects Shipped
+      - generic [ref=e48]:
+        - generic [ref=e49]: 1st
+        - generic [ref=e50]: Place KRI 2021
+      - generic [ref=e51]:
+        - generic [ref=e52]: "1"
+        - generic [ref=e53]: IEEE Publication
+    - generic [ref=e54]:
+      - button "Get In Touch" [ref=e55]:
+        - img
+        - text: Get In Touch
+      - button "Download CV" [ref=e56]:
+        - img
+        - text: Download CV
+    - button "Scroll to explore" [ref=e58]:
+      - generic [ref=e59]: Scroll to explore
+      - img [ref=e60]
+  - generic [ref=e65]:
+    - heading "About Me" [level=2] [ref=e67]
+    - generic [ref=e68]:
+      - img "Indra Putra Mahayuda" [ref=e75]
+      - generic [ref=e77]:
+        - paragraph [ref=e79]: AI Engineer with 3+ years of hands-on experience shipping machine learning systems across computer vision, deep reinforcement learning, and time series forecasting. I've built radar-camera fusion for autonomous vehicles (published in IEEE IES 2024), won 1st place in Indonesia's National Humanoid Robot Competition, and currently optimize mining fleet operations using deep RL at scale. I thrive at the intersection of research and production â€” taking models from Jupyter notebooks to edge devices and cloud deployments.
+        - generic [ref=e80]:
+          - generic [ref=e81]:
+            - generic [ref=e82]: 3+
+            - generic [ref=e83]: Years Experience
+          - generic [ref=e84]:
+            - generic [ref=e85]: 6+
+            - generic [ref=e86]: Projects Shipped
+          - generic [ref=e87]:
+            - generic [ref=e88]: 1st
+            - generic [ref=e89]: Place KRI 2021
+          - generic [ref=e90]:
+            - generic [ref=e91]: "1"
+            - generic [ref=e92]: IEEE Publication
+        - generic [ref=e93]:
+          - generic [ref=e94]: IEEE Published Researcher
+          - generic [ref=e95]: National Robotics Champion
+          - generic [ref=e96]: Huawei HCIA-AI Certified
+  - generic [ref=e98]:
+    - generic [ref=e99]:
+      - heading "Technical Skills" [level=2] [ref=e100]
+      - paragraph [ref=e101]: Core technologies I use to build and deploy AI systems
+    - generic [ref=e102]:
+      - generic [ref=e104]:
+        - generic [ref=e106]:
+          - img [ref=e108]
+          - generic [ref=e118]: Machine Learning & AI
+        - generic [ref=e120]:
+          - generic [ref=e121]: TensorFlow
+          - generic [ref=e122]: PyTorch
+          - generic [ref=e123]: Reinforcement Learning
+          - generic [ref=e124]: NLP
+          - generic [ref=e125]: Gymnasium
+          - generic [ref=e126]: Ray-RLlib
+          - generic [ref=e127]: GluonTS
+          - generic [ref=e128]: Darts
+          - generic [ref=e129]: BERT
+          - generic [ref=e130]: LLM
+          - generic [ref=e131]: Text Classification
+          - generic [ref=e132]: MLflow
+          - generic [ref=e133]: MLOps
+      - generic [ref=e135]:
+        - generic [ref=e137]:
+          - img [ref=e139]
+          - generic [ref=e142]: Computer Vision & Robotics
+        - generic [ref=e144]:
+          - generic [ref=e145]: Computer Vision
+          - generic [ref=e146]: OpenCV
+          - generic [ref=e147]: ROS
+          - generic [ref=e148]: YOLO
+          - generic [ref=e149]: TensorRT
+          - generic [ref=e150]: Jetson
+          - generic [ref=e151]: Sensor Fusion
+          - generic [ref=e152]: C/C++
+      - generic [ref=e154]:
+        - generic [ref=e156]:
+          - img [ref=e158]
+          - generic [ref=e161]: Web & Backend
+        - generic [ref=e163]:
+          - generic [ref=e164]: Python
+          - generic [ref=e165]: TypeScript
+          - generic [ref=e166]: Flask
+          - generic [ref=e167]: FastAPI
+          - generic [ref=e168]: Laravel
+          - generic [ref=e169]: Supabase
+          - generic [ref=e170]: Vercel
+          - generic [ref=e171]: REST API
+          - generic [ref=e172]: Payment Integration
+          - generic [ref=e173]: Git
+      - generic [ref=e175]:
+        - generic [ref=e177]:
+          - img [ref=e179]
+          - generic [ref=e184]: Data, IoT & Infrastructure
+        - generic [ref=e186]:
+          - generic [ref=e187]: BigQuery
+          - generic [ref=e188]: Streamlit
+          - generic [ref=e189]: SQL
+          - generic [ref=e190]: Data Scraping
+          - generic [ref=e191]: Node-RED
+          - generic [ref=e192]: MQTT
+          - generic [ref=e193]: IoT Integration
+          - generic [ref=e194]: Real-time Monitoring
+          - generic [ref=e195]: Docker
+          - generic [ref=e196]: Kubernetes
+          - generic [ref=e197]: AWS
+  - generic [ref=e199]:
+    - generic [ref=e200]:
+      - heading "Featured Projects" [level=2] [ref=e201]
+      - paragraph [ref=e202]: From robotics competitions to production ML systems — here's what I've built
+      - paragraph [ref=e203]: Showing 7 projects
+    - generic [ref=e205]:
+      - button "All" [ref=e206]
+      - button "Machine Learning & AI" [ref=e207]
+      - button "Computer Vision & Robotics" [ref=e208]
+      - button "Web & IoT System" [ref=e209]
+    - generic [ref=e210]:
+      - generic [ref=e212] [cursor=pointer]:
+        - generic [ref=e214]: Featured
+        - generic [ref=e216]: Professional
+        - generic:
+          - generic:
+            - generic:
+              - generic:
+                - img
+              - generic:
+                - paragraph: Company Project
+                - paragraph: Visual assets under NDA
+              - generic:
+                - generic: Python
+                - generic: TensorFlow
+                - generic: Ray-RLlib
+        - heading "Mining Fleet Optimization with Deep RL" [level=3] [ref=e218]
+        - generic [ref=e219]:
+          - paragraph [ref=e220]: Developing deep reinforcement learning algorithms for dynamic dispatching and task optimization in mining operations. Includes time series forecasting for predictive maintenance and fuel consumption, processing large-scale telemetry data with measurable fleet efficiency improvements.
+          - generic [ref=e221]:
+            - generic [ref=e222]: Python
+            - generic [ref=e223]: TensorFlow
+            - generic [ref=e224]: Ray-RLlib
+            - generic [ref=e225]: Gymnasium
+            - generic [ref=e226]: "+3"
+          - generic [ref=e227]:
+            - generic [ref=e228]: Click to view details
+            - img [ref=e229]
+      - generic [ref=e234] [cursor=pointer]:
+        - generic [ref=e236]: Featured
+        - generic [ref=e238]: Academic / Published
+        - generic:
+          - img "Advanced Driver Assistance System (ADAS)"
+        - heading "Advanced Driver Assistance System (ADAS)" [level=3] [ref=e240]
+        - generic [ref=e241]:
+          - paragraph [ref=e242]: Built a radar-camera fusion system for real-time human detection and distance measurement in vehicle ADAS. Achieved reliable object detection on embedded Jetson hardware. Published at IEEE International Electronics Symposium 2024.
+          - generic [ref=e243]:
+            - generic [ref=e244]: C/C++
+            - generic [ref=e245]: ROS
+            - generic [ref=e246]: OpenCV
+            - generic [ref=e247]: YOLO
+            - generic [ref=e248]: "+5"
+          - generic [ref=e249]:
+            - generic [ref=e250]: Click to view details
+            - img [ref=e251]
+      - generic [ref=e256] [cursor=pointer]:
+        - generic [ref=e258]: Featured
+        - generic [ref=e260]: Competition
+        - generic:
+          - img "Humanoid Robot Vision System"
+        - heading "Humanoid Robot Vision System" [level=3] [ref=e262]
+        - generic [ref=e263]:
+          - paragraph [ref=e264]: Developed the computer vision pipeline for humanoid robots competing in Indonesia's National Robot Soccer Competition (KRI). Built ball detection for interception/kicking and landmark-based localization for field positioning. Won 1st place (2021) and 3rd place (2022).
+          - generic [ref=e265]:
+            - generic [ref=e266]: OpenCV
+            - generic [ref=e267]: C/C++
+            - generic [ref=e268]: Python
+            - generic [ref=e269]: ROS
+            - generic [ref=e270]: "+3"
+          - generic [ref=e271]:
+            - generic [ref=e272]: Click to view details
+            - img [ref=e273]
+      - generic [ref=e278] [cursor=pointer]:
+        - generic [ref=e280]: Featured
+        - generic [ref=e282]: Product
+        - generic:
+          - 'img "Vectalent: AI-Powered CV Screening"'
+        - 'heading "Vectalent: AI-Powered CV Screening" [level=3] [ref=e284]'
+        - generic [ref=e285]:
+          - paragraph [ref=e286]: Built an end-to-end AI product that automates resume screening using LLMs, matching candidates to job requirements with intelligent scoring. Full-stack implementation with payment integration and user dashboard.
+          - generic [ref=e287]:
+            - generic [ref=e288]: LLM
+            - generic [ref=e289]: FastAPI
+            - generic [ref=e290]: TypeScript
+            - generic [ref=e291]: Supabase
+            - generic [ref=e292]: "+2"
+          - generic [ref=e293]:
+            - generic [ref=e294]: Click to view details
+            - img [ref=e295]
+      - generic [ref=e300] [cursor=pointer]:
+        - generic [ref=e302]: Research
+        - generic:
+          - 'img "Sentiment Analysis: Japan vs Indonesia"'
+        - 'heading "Sentiment Analysis: Japan vs Indonesia" [level=3] [ref=e304]'
+        - generic [ref=e305]:
+          - paragraph [ref=e306]: Analyzed Indonesian netizen reactions on Instagram after the national football team's 6-0 loss to Japan. Built a BERT-based sentiment classification pipeline to categorize thousands of comments into positive, negative, and neutral sentiments, revealing that supportive messages ("semangat") dominated despite the heavy defeat.
+          - generic [ref=e307]:
+            - generic [ref=e308]: Data Scraping
+            - generic [ref=e309]: NLP
+            - generic [ref=e310]: BERT
+            - generic [ref=e311]: Text Classification
+            - generic [ref=e312]: "+1"
+          - generic [ref=e313]:
+            - generic [ref=e314]: Click to view details
+            - img [ref=e315]
+      - generic [ref=e320] [cursor=pointer]:
+        - generic [ref=e322]: Client Project
+        - generic:
+          - 'img "IoT Monitoring Dashboard: Manufacturing"'
+        - 'heading "IoT Monitoring Dashboard: Manufacturing" [level=3] [ref=e324]'
+        - generic [ref=e325]:
+          - paragraph [ref=e326]: Built a comprehensive real-time IoT monitoring system for PT TKHS manufacturing facility, providing live data visualization, device management, and alerting.
+          - generic [ref=e327]:
+            - generic [ref=e328]: Laravel
+            - generic [ref=e329]: REST API
+            - generic [ref=e330]: IoT Integration
+          - generic [ref=e331]:
+            - generic [ref=e332]: Click to view details
+            - img [ref=e333]
+      - generic [ref=e338] [cursor=pointer]:
+        - generic [ref=e340]: Client Project
+        - generic:
+          - 'img "IoT Monitoring Dashboard: Hospital"'
+        - 'heading "IoT Monitoring Dashboard: Hospital" [level=3] [ref=e342]'
+        - generic [ref=e343]:
+          - paragraph [ref=e344]: Developed a real-time environmental monitoring solution for hospital critical areas, integrating sensors via MQTT and Node-RED for automated alerts and compliance tracking.
+          - generic [ref=e345]:
+            - generic [ref=e346]: Node-RED
+            - generic [ref=e347]: MQTT
+            - generic [ref=e348]: Real-time Monitoring
+          - generic [ref=e349]:
+            - generic [ref=e350]: Click to view details
+            - img [ref=e351]
+    - generic [ref=e357]:
+      - heading "Interested in Collaboration?" [level=3] [ref=e358]
+      - paragraph [ref=e359]: I'm always open to discussing challenging AI projects. Let's explore how we can work together.
+      - button "Start a Conversation" [ref=e360]
+  - generic [ref=e362]:
+    - generic [ref=e363]:
+      - heading "Professional Experience" [level=2] [ref=e364]
+      - paragraph [ref=e365]: Building AI systems across robotics, autonomous vehicles, and mining operations
+    - generic [ref=e368]:
+      - generic [ref=e372]:
+        - generic [ref=e374]:
+          - img [ref=e375]
+          - generic [ref=e378]: PT Synapsis Sinergi Digital
+          - generic [ref=e379]: •
+          - generic [ref=e380]: Aug 2024 - Current
+        - generic [ref=e382]:
+          - generic [ref=e387]:
+            - generic [ref=e388]:
+              - generic [ref=e389]:
+                - heading "AI Engineer" [level=3] [ref=e390]
+                - generic [ref=e391]: Promoted
+              - generic [ref=e392]:
+                - img [ref=e393]
+                - text: Aug 2025 - Current
+            - list [ref=e395]:
+              - listitem [ref=e396]:
+                - img [ref=e397]
+                - generic [ref=e400]: Developed a multi-agent AI planning engine for mining fleet management, enabling adaptive truck allocation based on real-time field conditions.
+              - listitem [ref=e401]:
+                - img [ref=e402]
+                - generic [ref=e405]: Built an AI-driven road discovery and mapping system for mining operations, reducing reliance on manual operator input.
+          - generic [ref=e409]:
+            - generic [ref=e410]:
+              - heading "Data Scientist" [level=3] [ref=e412]
+              - generic [ref=e413]:
+                - img [ref=e414]
+                - text: Aug 2024 - Aug 2025
+            - list [ref=e416]:
+              - listitem [ref=e417]:
+                - img [ref=e418]
+                - generic [ref=e421]: Developed and evaluated time-series forecasting models, including LSTM and PatchTST, to predict equipment queue times, throughput, and fuel consumption in mining fleet operations.
+              - listitem [ref=e422]:
+                - img [ref=e423]
+                - generic [ref=e426]: Built and deployed a haul-cycle activity classifier using TCN, achieving up to 95% accuracy and replacing brittle rule-based logic.
+              - listitem [ref=e427]:
+                - img [ref=e428]
+                - generic [ref=e431]: Designed a deep reinforcement learning pipeline using MAPPO for dynamic fleet dispatching and multi-agent task optimization.
+              - listitem [ref=e432]:
+                - img [ref=e433]
+                - generic [ref=e436]: Processed more than 10 million telemetry records and built end-to-end MLOps pipelines from training through production deployment, including automated retraining and rollback.
+              - listitem [ref=e437]:
+                - img [ref=e438]
+                - generic [ref=e441]: Collaborated with cross-functional teams to integrate AI models into real-time operational systems with sub-200 ms inference latency.
+      - generic [ref=e445]:
+        - generic [ref=e447]:
+          - img [ref=e448]
+          - generic [ref=e451]: PT VKTR Teknologi Mobilitas, Tbk
+          - generic [ref=e452]: •
+          - generic [ref=e453]: Aug 2023 - Feb 2024
+        - generic [ref=e458]:
+          - generic [ref=e459]:
+            - heading "Computer Vision Engineer Intern" [level=3] [ref=e461]
+            - generic [ref=e462]:
+              - img [ref=e463]
+              - text: Aug 2023 - Feb 2024
+          - list [ref=e465]:
+            - listitem [ref=e466]:
+              - img [ref=e467]
+              - generic [ref=e470]: Developed radar-camera fusion modules for vehicle ADAS, achieving reliable human detection and distance measurement
+            - listitem [ref=e471]:
+              - img [ref=e472]
+              - generic [ref=e475]: Implemented real-time object detection and instance segmentation running on NVIDIA Jetson embedded hardware
+            - listitem [ref=e476]:
+              - img [ref=e477]
+              - generic [ref=e480]: Published research findings at IEEE International Electronics Symposium (IES) 2024
+            - listitem [ref=e481]:
+              - img [ref=e482]
+              - generic [ref=e485]: Worked with C/C++, Python, OpenCV, PyTorch, ROS, and TensorRT for edge deployment
+      - generic [ref=e489]:
+        - generic [ref=e491]:
+          - img [ref=e492]
+          - generic [ref=e495]: Formulatrix Indonesia
+          - generic [ref=e496]: •
+          - generic [ref=e497]: Feb 2023 - Jul 2023
+        - generic [ref=e502]:
+          - generic [ref=e503]:
+            - heading "Software Engineer Intern (Computer Vision)" [level=3] [ref=e505]
+            - generic [ref=e506]:
+              - img [ref=e507]
+              - text: Feb 2023 - Jul 2023
+          - list [ref=e509]:
+            - listitem [ref=e510]:
+              - img [ref=e511]
+              - generic [ref=e514]: Developed computer vision systems for laboratory automation and precision robotics
+            - listitem [ref=e515]:
+              - img [ref=e516]
+              - generic [ref=e519]: Built internal camera calibration tools that streamlined engineering QA workflows
+            - listitem [ref=e520]:
+              - img [ref=e521]
+              - generic [ref=e524]: Improved vision pipeline accuracy and reliability for specialized instrumentation
+            - listitem [ref=e525]:
+              - img [ref=e526]
+              - generic [ref=e529]: Utilized C/C++, C#, Python, OpenCV across Linux and Raspberry Pi platforms
+      - generic [ref=e533]:
+        - generic [ref=e535]:
+          - img [ref=e536]
+          - generic [ref=e539]: EEPIS Robot Soccer Team
+          - generic [ref=e540]: •
+          - generic [ref=e541]: Jan 2021 - Aug 2022
+        - generic [ref=e546]:
+          - generic [ref=e547]:
+            - heading "Computer Vision Engineer" [level=3] [ref=e549]
+            - generic [ref=e550]:
+              - img [ref=e551]
+              - text: Jan 2021 - Aug 2022
+          - list [ref=e553]:
+            - listitem [ref=e554]:
+              - img [ref=e555]
+              - generic [ref=e558]: Led computer vision development for humanoid robots in Indonesia's National Robot Competition (KRI)
+            - listitem [ref=e559]:
+              - img [ref=e560]
+              - generic [ref=e563]: Built real-time ball detection system using deep learning for autonomous interception and kicking
+            - listitem [ref=e564]:
+              - img [ref=e565]
+              - generic [ref=e568]: Implemented landmark-based localization for field position estimation
+            - listitem [ref=e569]:
+              - img [ref=e570]
+              - generic [ref=e573]: Achieved 1st place (2021) and 3rd place (2022) at national level
+  - generic [ref=e575]:
+    - generic [ref=e576]:
+      - heading "Credentials" [level=2] [ref=e577]
+      - paragraph [ref=e578]: Education, research, awards, and certifications
+    - generic [ref=e579]:
+      - generic [ref=e580]:
+        - generic [ref=e581]:
+          - generic [ref=e582]:
+            - img [ref=e583]
+            - heading "Education" [level=3] [ref=e586]
+          - generic [ref=e588]:
+            - generic [ref=e591]:
+              - generic [ref=e592]:
+                - generic [ref=e593]: Bachelor of Engineering in Computer Engineering
+                - paragraph [ref=e594]: Electronic Engineering Polytechnic Institute of Surabaya (PENS)
+              - generic [ref=e595]:
+                - img
+                - text: 2020 - 2024
+            - paragraph [ref=e597]: "Focus: Computer Vision, Robotics, and Artificial Intelligence. Graduated with hands-on experience in national robotics competitions and industry internships."
+        - generic [ref=e598]:
+          - generic [ref=e599]:
+            - img [ref=e600]
+            - heading "Achievements" [level=3] [ref=e606]
+          - generic [ref=e607]:
+            - generic [ref=e608]:
+              - generic [ref=e609]:
+                - generic [ref=e610]:
+                  - generic [ref=e611]: 1st Place - Kontes Robot Humanoid Indonesia (KRI)
+                  - generic [ref=e612]:
+                    - img
+                    - text: "2021"
+                - paragraph [ref=e613]:
+                  - img [ref=e614]
+                  - text: Pusat Prestasi Nasional (Puspresnas)
+              - paragraph [ref=e618]: National champion in humanoid robot soccer competition as Computer Vision Engineer.
+            - generic [ref=e619]:
+              - generic [ref=e620]:
+                - generic [ref=e621]:
+                  - generic [ref=e622]: 3rd Place - Kontes Robot Humanoid Indonesia (KRI)
+                  - generic [ref=e623]:
+                    - img
+                    - text: "2022"
+                - paragraph [ref=e624]:
+                  - img [ref=e625]
+                  - text: Pusat Prestasi Nasional (Puspresnas)
+              - paragraph [ref=e629]: Continued excellence in national robotics competition.
+      - generic [ref=e630]:
+        - generic [ref=e631]:
+          - generic [ref=e632]:
+            - img [ref=e633]
+            - heading "Research Publication" [level=3] [ref=e636]
+          - generic [ref=e638]:
+            - generic [ref=e640]: Design and Implementation of a Radar-Camera Fusion System for Human Detection and Its Distance Measurement
+            - generic [ref=e642]:
+              - paragraph [ref=e643]: 2024 International Electronics Symposium (IES) - IEEE
+              - generic [ref=e644]:
+                - generic [ref=e645]:
+                  - img
+                  - text: "2024"
+                - button "Read Paper" [ref=e646]:
+                  - img
+                  - text: Read Paper
+        - generic [ref=e647]:
+          - generic [ref=e648]:
+            - img [ref=e649]
+            - heading "Certifications" [level=3] [ref=e652]
+          - generic [ref=e653]:
+            - generic [ref=e654]:
+              - generic [ref=e656]: Huawei Certified ICT Associate - Artificial Intelligence (HCIA-AI)
+              - generic [ref=e658]:
+                - paragraph [ref=e659]: Huawei
+                - generic [ref=e661]:
+                  - img
+                  - text: "2023"
+            - generic [ref=e662]:
+              - generic [ref=e664]: Junior Web Developer
+              - generic [ref=e666]:
+                - paragraph [ref=e667]: BNSP (National Professional Certification Agency)
+                - generic [ref=e669]:
+                  - img
+                  - text: "2022"
+  - generic [ref=e671]:
+    - generic [ref=e672]:
+      - heading "Let's Work Together" [level=2] [ref=e673]
+      - paragraph [ref=e674]: I'm actively looking for AI Engineer and ML roles. Whether it's a job opportunity, a collaboration, or just a conversation about AI — I'd love to hear from you.
+    - generic [ref=e677]:
+      - img [ref=e678]
+      - heading "Email Me Directly" [level=3] [ref=e681]
+      - paragraph [ref=e682]: The fastest way to reach me
+      - button "indraa25.pmy@gmail.com" [ref=e683]:
+        - text: indraa25.pmy@gmail.com
+        - img
+      - generic [ref=e684]:
+        - img [ref=e685]
+        - generic [ref=e688]: Indonesia (Open to Remote & Relocation)
+    - generic [ref=e690]:
+      - generic [ref=e692] [cursor=pointer]:
+        - img [ref=e694]
+        - heading "LinkedIn" [level=4] [ref=e698]
+        - paragraph [ref=e699]: Let's connect professionally
+      - generic [ref=e701] [cursor=pointer]:
+        - img [ref=e703]
+        - heading "GitHub" [level=4] [ref=e706]
+        - paragraph [ref=e707]: See my code & contributions
+      - generic [ref=e709] [cursor=pointer]:
+        - img [ref=e711]
+        - heading "Instagram" [level=4] [ref=e715]
+        - paragraph [ref=e716]: Personal updates
+  - generic [ref=e718]:
+    - generic [ref=e719]:
+      - generic [ref=e720]:
+        - button "Indra Putra Mahayuda" [ref=e721]
+        - paragraph [ref=e722]: AI Engineer specializing in computer vision, deep reinforcement learning, and production ML systems.
+      - generic [ref=e723]:
+        - heading "Quick Links" [level=3] [ref=e724]
+        - generic [ref=e725]:
+          - button "About" [ref=e726]
+          - button "Skills" [ref=e727]
+          - button "Projects" [ref=e728]
+          - button "Experience" [ref=e729]
+          - button "Credentials" [ref=e730]
+          - button "Contact" [ref=e731]
+      - generic [ref=e732]:
+        - heading "Connect" [level=3] [ref=e733]
+        - generic [ref=e734]:
+          - link "indraa25.pmy@gmail.com" [ref=e735] [cursor=pointer]:
+            - /url: mailto:indraa25.pmy@gmail.com
+          - paragraph [ref=e736]: Indonesia (Open to Remote & Relocation)
+        - generic [ref=e737]:
+          - button "LinkedIn" [ref=e738]:
+            - img [ref=e739]
+          - button "GitHub" [ref=e743]:
+            - img [ref=e744]
+          - button "Instagram" [ref=e747]:
+            - img [ref=e748]
+    - generic [ref=e752]:
+      - paragraph [ref=e753]: 2026 Indra Putra Mahayuda. All rights reserved.
+      - paragraph [ref=e754]:
+        - text: Built with
+        - img [ref=e755]
+        - text: using Next.js & Tailwind CSS
+  - generic:
+    - button:
+      - img
