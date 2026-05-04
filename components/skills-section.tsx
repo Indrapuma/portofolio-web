@@ -33,8 +33,9 @@ const SkillsSection = () => {
       title: "Web & Backend",
       icon: <Code className="h-5 w-5" />,
       skills: [
-        "Python", "TypeScript", "Flask", "FastAPI", "Laravel",
-        "Supabase", "Vercel", "REST API", "Payment Integration", "Git"
+        "Python", "Next.js", "React", "TypeScript", "Tailwind CSS",
+        "shadcn/ui", "Flask", "FastAPI", "Laravel", "Supabase",
+        "Vercel", "REST API", "Payment Integration", "Git"
       ],
       color: "bg-green-500/10 text-green-500 border-green-500/20",
     },

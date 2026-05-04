@@ -48,7 +48,11 @@
     "Sensor Fusion",
     "BERT",
     "FastAPI",
+    "Next.js",
+    "React",
     "TypeScript",
+    "Tailwind CSS",
+    "shadcn/ui",
     "Supabase",
     "Vercel",
     "Laravel",
@@ -157,6 +161,26 @@
       "image": "/img_porto/vectalent/dasbor.png"
     },
     {
+      "title": "Personal Portfolio Website",
+      "type": "Product",
+      "category": "Web Platform",
+      "featured": false,
+      "description": "Built this personal portfolio website as a responsive single-page experience to showcase projects, experience, publications, and contact information. Implemented with modern React patterns, polished UI components, and interactive project detail views.",
+      "stack": [
+        "Next.js",
+        "React",
+        "TypeScript",
+        "Tailwind CSS",
+        "shadcn/ui"
+      ],
+      "link": "",
+      "demo": "https://indrapuma.vercel.app/",
+      "gallery": [
+        "/img_porto/web-porto/image.png"
+      ],
+      "image": "/img_porto/web-porto/image.png"
+    },
+    {
       "title": "SkyStrike MVC: Reinforcement Learning Arcade Agent",
       "type": "Side Project",
       "category": "Machine Learning & AI",
@@ -171,7 +195,7 @@
         "JSON",
         "Python"
       ],
-        "link": "https://github.com/Indrapuma/SkyStrike",
+      "link": "https://github.com/Indrapuma/SkyStrike",
       "demo": "",
       "gallery": [
         "/img_porto/rl-skystrike/Screen Recording 2026-04-30 104915.gif",
