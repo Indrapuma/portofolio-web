@@ -102,7 +102,7 @@
         "Python",
         "Instance Segmentation"
       ],
-      "link": "https://github.com/bosindra/road-generator",
+      "link": "",
       "demo": "https://youtu.be/bOHhhfR74G4",
       "gallery": [
         "/img_porto/adas/radar-camera.jpg",
@@ -155,6 +155,29 @@
         "/img_porto/vectalent/details.png"
       ],
       "image": "/img_porto/vectalent/dasbor.png"
+    },
+    {
+      "title": "SkyStrike MVC: Reinforcement Learning Arcade Agent",
+      "type": "Side Project",
+      "category": "Machine Learning & AI",
+      "featured": false,
+      "description": "Built a classic arcade shooter in C# with raylib-cs and embedded tabular Q-learning. The project supports manual play, in-game RL training, persisted Q-tables, CSV metric export, and inference mode using a learned policy.",
+      "stack": [
+        "C#",
+        ".NET 10",
+        "raylib-cs",
+        "Q-Learning",
+        "Reinforcement Learning",
+        "JSON",
+        "Python"
+      ],
+        "link": "https://github.com/Indrapuma/SkyStrike",
+      "demo": "",
+      "gallery": [
+        "/img_porto/rl-skystrike/Screen Recording 2026-04-30 104915.gif",
+        "/img_porto/rl-skystrike/episode_metrics_plot.png"
+      ],
+      "image": "/img_porto/rl-skystrike/episode_metrics_plot.png"
     },
     {
       "title": "Sentiment Analysis: Japan vs Indonesia",
