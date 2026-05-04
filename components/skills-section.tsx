@@ -21,23 +21,23 @@ const SkillsSection = () => {
       color: "bg-blue-500/10 text-blue-500 border-blue-500/20",
     },
     {
+      title: "Programming Languages & Web",
+      icon: <Code className="h-5 w-5" />,
+      skills: [
+        "Python", "TypeScript", "C/C++", "C#", "Rust",
+        "Next.js", "React", "Tailwind CSS", "shadcn/ui", "Flask", "FastAPI", "Laravel", "Supabase",
+        "Vercel", "REST API", "Payment Integration", "Git"
+      ],
+      color: "bg-emerald-500/10 text-emerald-500 border-emerald-500/20",
+    },
+    {
       title: "Computer Vision & Robotics",
       icon: <Cpu className="h-5 w-5" />,
       skills: [
         "Computer Vision", "OpenCV", "ROS", "YOLO",
-        "TensorRT", "Jetson", "Sensor Fusion", "C/C++"
+        "TensorRT", "Jetson", "Sensor Fusion"
       ],
       color: "bg-indigo-500/10 text-indigo-500 border-indigo-500/20",
-    },
-    {
-      title: "Web & Backend",
-      icon: <Code className="h-5 w-5" />,
-      skills: [
-        "Python", "Next.js", "React", "TypeScript", "Tailwind CSS",
-        "shadcn/ui", "Flask", "FastAPI", "Laravel", "Supabase",
-        "Vercel", "REST API", "Payment Integration", "Git"
-      ],
-      color: "bg-green-500/10 text-green-500 border-green-500/20",
     },
     {
       title: "Data, IoT & Infrastructure",

@@ -48,6 +48,8 @@
     "Sensor Fusion",
     "BERT",
     "FastAPI",
+    "C#",
+    "Rust",
     "Next.js",
     "React",
     "TypeScript",
@@ -77,6 +79,7 @@
       "description": "Developing deep reinforcement learning algorithms for dynamic dispatching and task optimization in mining operations. Includes time series forecasting for predictive maintenance and fuel consumption, processing large-scale telemetry data with measurable fleet efficiency improvements.",
       "stack": [
         "Python",
+        "Rust",
         "TensorFlow",
         "Ray-RLlib",
         "Gymnasium",
